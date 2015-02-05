@@ -1,0 +1,35 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>minHue</Name>
+    <Value>16.847290039</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>minSaturation</Name>
+    <Value>61.551723480</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>minValue</Name>
+    <Value>33.916255951</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>maxHue</Name>
+    <Value>86.896553040</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>maxSaturation</Name>
+    <Value>255.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>maxValue</Name>
+    <Value>175.862075806</Value>
+</Widget>
+<Widget>
+    <Kind>42</Kind>
+    <Name>morphSize</Name>
+    <Value>2</Value>
+</Widget>
